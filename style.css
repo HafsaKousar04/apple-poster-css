@@ -52,8 +52,12 @@ margin-left: -50px;
     margin-top: 60px;
     background-color: rgba(248, 247, 247, 0.877);
 }
+
 .img3{
-    margin-top: 10px;
+    margin-top: 18px;
+ align-items: center;
+   
+ margin-left: -2px;
     display: flex;
     height: 50px;
     width: 50px;
